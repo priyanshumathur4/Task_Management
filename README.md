@@ -50,7 +50,8 @@ The Task Management System follows a client-server architecture. The backend is 
     "task": "go to swim",
     "details": "go to swim"
   }
-   - **Response Body:**
+  
+- **Response Body:**
    ```json
    {
     "message": "Task Saved",
